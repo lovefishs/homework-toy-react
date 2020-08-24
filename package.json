@@ -1,0 +1,28 @@
+{
+  "name": "homework-toy-react",
+  "version": "1.0.0",
+  "description": "ToyReact Homework",
+  "main": "main.js",
+  "dependencies": {
+    "webpack": "4.44.1",
+    "webpack-cli": "3.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovefishs/homework-toy-react.git"
+  },
+  "keywords": [
+    "React",
+    "ToyReact"
+  ],
+  "author": "348102023@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovefishs/homework-toy-react/issues"
+  },
+  "homepage": "https://github.com/lovefishs/homework-toy-react#readme"
+}
